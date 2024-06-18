@@ -1,0 +1,24 @@
+.green {
+    background-color: greenyellow;
+    
+}
+.red {
+    background-color: red;
+    
+}
+.pink {
+    background-color: rgb(233, 84, 247);
+    height: 80px;
+}
+.skin {
+    background-color: rgb(233, 214, 235);
+    height: 150px;
+}
+.blue {
+    background-color: blue;
+    
+}
+.row>div {
+    border: 4px solid;
+    border-color: white;
+}
