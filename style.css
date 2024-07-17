@@ -1,0 +1,39 @@
+body {
+    background-color: #f6f6f6;
+    line-height: 1.6;
+    font-size: 16px;
+    color: #a2a2a2;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+/*Informaciones*/
+.topbar {
+    background-color: #000;
+    margin-bottom: 30px;
+    padding: 12px 14px;
+}
+
+.topbar a, 
+.topbar p {
+    color: #fff;
+    font-size: 15px;
+    margin: 0;
+}
+
+.topbar .text-left p {
+    margin-top: 3px;
+}
+.topbar .text-left i {
+    padding-right: 3px;
+}
+
+.header {
+    background-color: transparent;
+    position: absolute;
+    z-index: 111;
+    padding: 0;
+    text-decoration: none;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+}
